@@ -1,14 +1,14 @@
 export default [
   {
     id: 1,
-    coverImg: 'old_port.png',
-    title: 'My Portfolio',
-    description: 'My other portfolio',
-    techStack1: 'HTML',
-    techStack2: 'CSS',
-    techStack3: 'JavaScript',
-    liveUrl: 'https://aninditapriyadarshini.github.io/My-Portfolio/',
-    gitUrl: 'https://github.com/ANINDITAPRIYADARSHINI/My-Portfolio',
+    coverImg: 'tenzies_a_game.png',
+    title: 'Tenzies',
+    description: 'A fun Roll-The-Dice game.',
+    techStack1: 'React',
+    techStack2: 'TailwindCSS',
+    techStack3: 'Vite',
+    liveUrl: 'https://tenzies-a-game.netlify.app/',
+    gitUrl: 'https://github.com/ANINDITAPRIYADARSHINI/Tenzies-A-Game',
   },
 
   {
