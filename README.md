@@ -1,3 +1,3 @@
 # Gallery
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/stackblitz-starters-jtfaz7)
+A collection of my other projects in gallery form.
